@@ -1,11 +1,11 @@
-#Morphotectonic Analysis
+# Morphotectonic Analysis
 
 Morphotectonic analysis is a study of the relationship between the Earth's surface features and tectonic processes. This analysis uses geological data, such as fault and ridge traces, to understand the deformation of the Earth's morphology
 
-##Introduction
+## Introduction
 This code processes geospatial data in Python using GDAL, Rasterio, and Geopandas libraries. It demonstrates different methods of processing DEM data and plotting vector data. The code includes filtering lineaments in a DEM using a directional filter and extracting azimuth from the filtered data. It also includes plotting a windrose for the azimuth data.
 
-##Requirements and Libraries used
+## Requirements and Libraries used
 Python 3.x
 osgeo (gdal) to read the raster data
 numpy
@@ -16,7 +16,7 @@ pandas
 windrose for windrose plot
 
 
-##Code Structure
+## Code Structure
 The code is divided into different sections, each of which has a specific function. The sections are as follows:
 
 1- Importing libraries: This section imports the required libraries for the code.
