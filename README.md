@@ -6,13 +6,21 @@ Morphotectonic analysis is a study of the relationship between the Earth's surfa
 This code processes geospatial data in Python using GDAL, Rasterio, and Geopandas libraries. It demonstrates different methods of processing DEM data and plotting vector data. The code includes filtering lineaments in a DEM using a directional filter and extracting azimuth from the filtered data. It also includes plotting a windrose for the azimuth data.
 
 ## Requirements and Libraries used
+
 Python 3.x
+
 osgeo (gdal) to read the raster data
+
 numpy
+
 matplotlib to visualize the data
+
 rasterio
+
 geopandas to plot the vector data
+
 pandas
+
 windrose for windrose plot
 
 
