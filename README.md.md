@@ -7,7 +7,7 @@ This code processes geospatial data in Python using GDAL, Rasterio, and Geopanda
 
 ##Requirements and Libraries used
 Python 3.x
-osgeo (gdal)to read the raster data
+osgeo (gdal) to read the raster data
 numpy
 matplotlib to visualize the data
 rasterio
